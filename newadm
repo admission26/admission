@@ -1,0 +1,8 @@
+git config --global user.email "vaishali.biradar@gmail.com"
+git config --global user.name "vaishali biradar"
+git init
+git add .    
+git commit -m "basic prediction"
+# Replace <admission> admission26
+git remote add origin https://github.com/<addmission26>/admission.git
+git push -u origin master
